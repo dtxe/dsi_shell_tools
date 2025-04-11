@@ -1,7 +1,7 @@
 [project]
 name = "dsi-shell-tools"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tools for instructors for DSI's shell and git module"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

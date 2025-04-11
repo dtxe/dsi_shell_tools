@@ -1,1 +1,1 @@
-# Tools for instructors for DSI's shell and python modules
+# Tools for instructors for DSI's shell and git module
